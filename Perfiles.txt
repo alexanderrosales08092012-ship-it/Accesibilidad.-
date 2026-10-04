@@ -1,2 +1,0 @@
-# rol|usuario_privado|nombre_publico
-superadmin | alex1090 | Ayuda y accesibilidad
