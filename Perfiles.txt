@@ -1,2 +1,3 @@
 # rol|usuario_privado|nombre_publico
 superadmin | Aplicaciones | aplicaciones company
+gold | Alex1090 | ayuda y accesibilidad
