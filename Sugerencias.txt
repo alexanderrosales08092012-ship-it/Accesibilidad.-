@@ -1,1 +1,1 @@
-[]
+[{"usuario":"ayuda y accesibilidad","usuario_interno":"alex1090","fecha":"09\/10\/2026 08:45","mensaje":"Esto es una prueba sí señor","tipo":"Comentario o error","asunto":"tengo un error"}]
