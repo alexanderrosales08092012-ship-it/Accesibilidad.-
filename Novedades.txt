@@ -1,0 +1,1 @@
+Cambios en esta versión: en esta versión se corrigió el error que no permitía descargar ni complementos ni herramientas..
