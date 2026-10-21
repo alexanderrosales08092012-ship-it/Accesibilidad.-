@@ -2,4 +2,3 @@
 superadmin | aplicaciones | aplicaciones Company
 creador | antoniisrael | apoyo accesible
 creador | Jesusjieshuo | eco accesible
-superadmin | alex1090 | ayuda y accesibilidad
