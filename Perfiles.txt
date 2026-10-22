@@ -2,4 +2,3 @@
 superadmin | aplicaciones | aplicaciones Company
 creador | antoniisrael | apoyo accesible
 superadmin | alex1090 | Ayuda y accesibilidad
-creador | Juan Francisco | Marcos
