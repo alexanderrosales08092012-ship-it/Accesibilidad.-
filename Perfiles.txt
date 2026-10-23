@@ -1,4 +1,4 @@
 # rol|usuario_privado|nombre_publico
 superadmin | aplicaciones | aplicaciones Company
 creador | antoniisrael | apoyo accesible
-Super admin.. | alex1090 | Ayuda y accesibilidad..
+Creador | alex1090 | Ayuda y accesibilidad..
